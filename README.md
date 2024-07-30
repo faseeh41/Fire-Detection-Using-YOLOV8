@@ -2,7 +2,7 @@
 
 ---
 
-## <img src="./Test_Images/demo.jpeg" alt="index1"/>
+## <img src="./Extra/src.jpeg" alt="index1"/>
 
 ### Emotion Detection
 
