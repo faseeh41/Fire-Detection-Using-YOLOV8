@@ -1,0 +1,13 @@
+train: /mydrive/yolov9/yolov9/dataset/train/images #gave proper path to the tain folder
+val: /mydrive/yolov9/yolov9/dataset/valid/images #gave proper path to the valid folder
+test: /mydrive/yolov9/yolov9/dataset/test/images #gave proper path to the test folder
+
+nc: 1
+names: ["FIRE"]
+
+roboflow:
+  workspace: workshop-yg2yt
+  project: fire-uby1d
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/workshop-yg2yt/fire-uby1d/dataset/1
