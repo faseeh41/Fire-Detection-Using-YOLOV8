@@ -4,17 +4,17 @@
 
 ## <img src="./Extra/src.png" alt="index1"/>
 
-### Emotion Detection
+### Fire Detection
 
-Humans are used to non verbal communication. The emotions expressed increases the clarity of any thoughts and ideas. It becoms quite interesting when a computer can capture this complex feature of humans, ie emotions. This topic talks about building a model which can detect an emotion from an image. There key points to be followed are:
+The fire detection model leverages the advanced YOLOv8 (You Only Look Once, Version 8) architecture to detect fire in images or video feeds. This system is designed to enhance safety measures by providing real-time fire detection and immediate alert notifications via email.
 
 1. Data gathering and augmentation
 
-   The dataset taken was **"fer2013"**. It can be downloaded through the link "https://github.com/npinto/fer2013". Image augmentation was performed on this data.
+   The dataset taken was **"Roboflow"**. It can be downloaded through the link "https://universe.roboflow.com/workshop-yg2yt/fire-uby1d/dataset/1". Image augmentation was performed on this data.
 
 2. Model building
 
-   The model architecture consists of CNN Layer, Max Pooling, Flatten and Dropout Layers.
+   The model architecture consists of CNN Layer, Max Pooling, Flatten, Bounding Boxes and Dropout Layers.
 
 3. Training
 
@@ -32,7 +32,7 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
 ## Usage:
 
-### For Face Detection Code
+### For Fire Detection Code
 
 Refer to the notebook /Fire_detection.ipynb..<br/>
 I have trained an Fire detection model and put its trained weights at /Models
