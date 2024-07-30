@@ -24,9 +24,9 @@ The fire detection model leverages the advanced YOLOv8 (You Only Look Once, Vers
 
    The model was tested with sample images. It can be seen below:
 
-   <img src="./Extra/fire 1.png" alt="index1" height="300px"/>
-   <img src="./Extra/fire 2.png" alt="index2" height="300px"/>
-    <img src="./Extra/fire 3.png" alt="index3" height="300px"/>
+   <img src="./Extra/fire 1.PNG" alt="index1" height="300px"/>
+   <img src="./Extra/fire 2.PNG" alt="index2" height="300px"/>
+    <img src="./Extra/fire 3.PNG" alt="index3" height="300px"/>
 
 #### The model will be able to detect fire :-
 
